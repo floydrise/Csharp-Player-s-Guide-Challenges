@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/bin/Debug/net8.0/The Old Robot
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/bin/Debug/net8.0/The Old Robot.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/bin/Debug/net8.0/The Old Robot.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/bin/Debug/net8.0/The Old Robot.dll
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/bin/Debug/net8.0/The Old Robot.pdb
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/obj/Debug/net8.0/The Old Robot.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/obj/Debug/net8.0/The Old Robot.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/obj/Debug/net8.0/The Old Robot.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/obj/Debug/net8.0/The Old Robot.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/obj/Debug/net8.0/The Old Robot.dll
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/obj/Debug/net8.0/refint/The Old Robot.dll
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/obj/Debug/net8.0/The Old Robot.pdb
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/obj/Debug/net8.0/The Old Robot.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/The Old Robot/obj/Debug/net8.0/ref/The Old Robot.dll

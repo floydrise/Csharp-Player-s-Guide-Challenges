@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/bin/Debug/net8.0/Vin Fletcher’s Arrows
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/bin/Debug/net8.0/Vin Fletcher’s Arrows.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/bin/Debug/net8.0/Vin Fletcher’s Arrows.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/bin/Debug/net8.0/Vin Fletcher’s Arrows.dll
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/bin/Debug/net8.0/Vin Fletcher’s Arrows.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/obj/Debug/net8.0/Vin Fletcher’s Arrows.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/obj/Debug/net8.0/Vin Fletcher’s Arrows.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/obj/Debug/net8.0/Vin Fletcher’s Arrows.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/obj/Debug/net8.0/Vin Fletcher’s Arrows.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/obj/Debug/net8.0/Vin Fletcher’s Arrows.dll
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/obj/Debug/net8.0/refint/Vin Fletcher’s Arrows.dll
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/obj/Debug/net8.0/Vin Fletcher’s Arrows.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/obj/Debug/net8.0/Vin Fletcher’s Arrows.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Vin Fletcher’s Arrows/obj/Debug/net8.0/ref/Vin Fletcher’s Arrows.dll

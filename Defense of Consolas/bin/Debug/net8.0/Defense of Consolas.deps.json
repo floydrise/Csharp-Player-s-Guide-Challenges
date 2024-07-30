@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Defense of Consolas/1.0.0": {
+        "runtime": {
+          "Defense of Consolas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Defense of Consolas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

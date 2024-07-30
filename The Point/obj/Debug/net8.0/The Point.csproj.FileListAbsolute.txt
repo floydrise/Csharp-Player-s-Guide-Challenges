@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/The Point/bin/Debug/net8.0/The Point
+/Users/apple/Documents/Programming/C# Player's guide/The Point/bin/Debug/net8.0/The Point.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/The Point/bin/Debug/net8.0/The Point.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/The Point/bin/Debug/net8.0/The Point.dll
+/Users/apple/Documents/Programming/C# Player's guide/The Point/bin/Debug/net8.0/The Point.pdb
+/Users/apple/Documents/Programming/C# Player's guide/The Point/obj/Debug/net8.0/The Point.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/The Point/obj/Debug/net8.0/The Point.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/The Point/obj/Debug/net8.0/The Point.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/The Point/obj/Debug/net8.0/The Point.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/The Point/obj/Debug/net8.0/The Point.dll
+/Users/apple/Documents/Programming/C# Player's guide/The Point/obj/Debug/net8.0/refint/The Point.dll
+/Users/apple/Documents/Programming/C# Player's guide/The Point/obj/Debug/net8.0/The Point.pdb
+/Users/apple/Documents/Programming/C# Player's guide/The Point/obj/Debug/net8.0/The Point.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/The Point/obj/Debug/net8.0/ref/The Point.dll

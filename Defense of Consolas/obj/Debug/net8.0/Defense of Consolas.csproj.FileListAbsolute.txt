@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/bin/Debug/net8.0/Defense of Consolas
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/bin/Debug/net8.0/Defense of Consolas.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/bin/Debug/net8.0/Defense of Consolas.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/bin/Debug/net8.0/Defense of Consolas.dll
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/bin/Debug/net8.0/Defense of Consolas.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/obj/Debug/net8.0/Defense of Consolas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/obj/Debug/net8.0/Defense of Consolas.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/obj/Debug/net8.0/Defense of Consolas.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/obj/Debug/net8.0/Defense of Consolas.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/obj/Debug/net8.0/Defense of Consolas.dll
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/obj/Debug/net8.0/refint/Defense of Consolas.dll
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/obj/Debug/net8.0/Defense of Consolas.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/obj/Debug/net8.0/Defense of Consolas.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Defense of Consolas/obj/Debug/net8.0/ref/Defense of Consolas.dll

@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/bin/Debug/net8.0/War Preparations
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/bin/Debug/net8.0/War Preparations.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/bin/Debug/net8.0/War Preparations.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/bin/Debug/net8.0/War Preparations.dll
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/bin/Debug/net8.0/War Preparations.pdb
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/obj/Debug/net8.0/War Preparations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/obj/Debug/net8.0/War Preparations.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/obj/Debug/net8.0/War Preparations.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/obj/Debug/net8.0/War Preparations.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/obj/Debug/net8.0/War Preparations.dll
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/obj/Debug/net8.0/refint/War Preparations.dll
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/obj/Debug/net8.0/War Preparations.pdb
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/obj/Debug/net8.0/War Preparations.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/War Preparations/obj/Debug/net8.0/ref/War Preparations.dll

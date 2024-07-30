@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/bin/Debug/net8.0/The Prototype
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/bin/Debug/net8.0/The Prototype.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/bin/Debug/net8.0/The Prototype.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/bin/Debug/net8.0/The Prototype.dll
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/bin/Debug/net8.0/The Prototype.pdb
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/obj/Debug/net8.0/The Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/obj/Debug/net8.0/The Prototype.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/obj/Debug/net8.0/The Prototype.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/obj/Debug/net8.0/The Prototype.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/obj/Debug/net8.0/The Prototype.dll
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/obj/Debug/net8.0/refint/The Prototype.dll
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/obj/Debug/net8.0/The Prototype.pdb
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/obj/Debug/net8.0/The Prototype.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/The Prototype/obj/Debug/net8.0/ref/The Prototype.dll

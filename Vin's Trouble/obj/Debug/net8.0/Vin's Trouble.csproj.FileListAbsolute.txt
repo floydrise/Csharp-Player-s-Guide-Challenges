@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/bin/Debug/net8.0/Vin's Trouble
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/bin/Debug/net8.0/Vin's Trouble.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/bin/Debug/net8.0/Vin's Trouble.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/bin/Debug/net8.0/Vin's Trouble.dll
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/bin/Debug/net8.0/Vin's Trouble.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/obj/Debug/net8.0/Vin's Trouble.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/obj/Debug/net8.0/Vin's Trouble.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/obj/Debug/net8.0/Vin's Trouble.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/obj/Debug/net8.0/Vin's Trouble.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/obj/Debug/net8.0/Vin's Trouble.dll
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/obj/Debug/net8.0/refint/Vin's Trouble.dll
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/obj/Debug/net8.0/Vin's Trouble.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/obj/Debug/net8.0/Vin's Trouble.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Vin's Trouble/obj/Debug/net8.0/ref/Vin's Trouble.dll

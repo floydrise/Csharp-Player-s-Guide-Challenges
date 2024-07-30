@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/bin/Debug/net8.0/BOSS BATTLE - Hunting the Manticore
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/bin/Debug/net8.0/BOSS BATTLE - Hunting the Manticore.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/bin/Debug/net8.0/BOSS BATTLE - Hunting the Manticore.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/bin/Debug/net8.0/BOSS BATTLE - Hunting the Manticore.dll
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/bin/Debug/net8.0/BOSS BATTLE - Hunting the Manticore.pdb
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/obj/Debug/net8.0/BOSS BATTLE - Hunting the Manticore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/obj/Debug/net8.0/BOSS BATTLE - Hunting the Manticore.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/obj/Debug/net8.0/BOSS BATTLE - Hunting the Manticore.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/obj/Debug/net8.0/BOSS BATTLE - Hunting the Manticore.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/obj/Debug/net8.0/BOSS BATTLE - Hunting the Manticore.dll
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/obj/Debug/net8.0/refint/BOSS BATTLE - Hunting the Manticore.dll
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/obj/Debug/net8.0/BOSS BATTLE - Hunting the Manticore.pdb
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/obj/Debug/net8.0/BOSS BATTLE - Hunting the Manticore.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/BOSS BATTLE - Hunting the Manticore/obj/Debug/net8.0/ref/BOSS BATTLE - Hunting the Manticore.dll

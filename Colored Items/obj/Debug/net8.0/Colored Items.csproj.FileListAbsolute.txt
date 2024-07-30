@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/bin/Debug/net8.0/Colored Items
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/bin/Debug/net8.0/Colored Items.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/bin/Debug/net8.0/Colored Items.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/bin/Debug/net8.0/Colored Items.dll
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/bin/Debug/net8.0/Colored Items.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/obj/Debug/net8.0/Colored Items.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/obj/Debug/net8.0/Colored Items.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/obj/Debug/net8.0/Colored Items.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/obj/Debug/net8.0/Colored Items.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/obj/Debug/net8.0/Colored Items.dll
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/obj/Debug/net8.0/refint/Colored Items.dll
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/obj/Debug/net8.0/Colored Items.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/obj/Debug/net8.0/Colored Items.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Colored Items/obj/Debug/net8.0/ref/Colored Items.dll

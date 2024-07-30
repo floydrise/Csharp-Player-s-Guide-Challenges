@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/bin/Debug/net8.0/Simula’s Soup
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/bin/Debug/net8.0/Simula’s Soup.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/bin/Debug/net8.0/Simula’s Soup.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/bin/Debug/net8.0/Simula’s Soup.dll
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/bin/Debug/net8.0/Simula’s Soup.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/obj/Debug/net8.0/Simula’s Soup.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/obj/Debug/net8.0/Simula’s Soup.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/obj/Debug/net8.0/Simula’s Soup.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/obj/Debug/net8.0/Simula’s Soup.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/obj/Debug/net8.0/Simula’s Soup.dll
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/obj/Debug/net8.0/refint/Simula’s Soup.dll
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/obj/Debug/net8.0/Simula’s Soup.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/obj/Debug/net8.0/Simula’s Soup.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Simula’s Soup/obj/Debug/net8.0/ref/Simula’s Soup.dll

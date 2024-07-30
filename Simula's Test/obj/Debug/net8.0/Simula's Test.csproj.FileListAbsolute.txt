@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/bin/Debug/net8.0/Simula's Test
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/bin/Debug/net8.0/Simula's Test.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/bin/Debug/net8.0/Simula's Test.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/bin/Debug/net8.0/Simula's Test.dll
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/bin/Debug/net8.0/Simula's Test.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/obj/Debug/net8.0/Simula's Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/obj/Debug/net8.0/Simula's Test.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/obj/Debug/net8.0/Simula's Test.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/obj/Debug/net8.0/Simula's Test.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/obj/Debug/net8.0/Simula's Test.dll
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/obj/Debug/net8.0/refint/Simula's Test.dll
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/obj/Debug/net8.0/Simula's Test.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/obj/Debug/net8.0/Simula's Test.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Simula's Test/obj/Debug/net8.0/ref/Simula's Test.dll

@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/bin/Debug/net8.0/Packing Inventory
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/bin/Debug/net8.0/Packing Inventory.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/bin/Debug/net8.0/Packing Inventory.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/bin/Debug/net8.0/Packing Inventory.dll
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/bin/Debug/net8.0/Packing Inventory.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/obj/Debug/net8.0/Packing Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/obj/Debug/net8.0/Packing Inventory.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/obj/Debug/net8.0/Packing Inventory.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/obj/Debug/net8.0/Packing Inventory.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/obj/Debug/net8.0/Packing Inventory.dll
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/obj/Debug/net8.0/refint/Packing Inventory.dll
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/obj/Debug/net8.0/Packing Inventory.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/obj/Debug/net8.0/Packing Inventory.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Packing Inventory/obj/Debug/net8.0/ref/Packing Inventory.dll

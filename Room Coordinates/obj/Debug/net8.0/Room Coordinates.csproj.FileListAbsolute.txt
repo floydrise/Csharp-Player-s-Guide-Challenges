@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/bin/Debug/net8.0/Room Coordinates
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/bin/Debug/net8.0/Room Coordinates.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/bin/Debug/net8.0/Room Coordinates.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/bin/Debug/net8.0/Room Coordinates.dll
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/bin/Debug/net8.0/Room Coordinates.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/obj/Debug/net8.0/Room Coordinates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/obj/Debug/net8.0/Room Coordinates.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/obj/Debug/net8.0/Room Coordinates.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/obj/Debug/net8.0/Room Coordinates.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/obj/Debug/net8.0/Room Coordinates.dll
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/obj/Debug/net8.0/refint/Room Coordinates.dll
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/obj/Debug/net8.0/Room Coordinates.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/obj/Debug/net8.0/Room Coordinates.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Room Coordinates/obj/Debug/net8.0/ref/Room Coordinates.dll

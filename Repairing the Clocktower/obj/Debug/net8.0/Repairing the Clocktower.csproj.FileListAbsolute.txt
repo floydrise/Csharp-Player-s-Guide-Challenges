@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/bin/Debug/net8.0/Repairing the Clocktower
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/bin/Debug/net8.0/Repairing the Clocktower.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/bin/Debug/net8.0/Repairing the Clocktower.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/bin/Debug/net8.0/Repairing the Clocktower.dll
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/bin/Debug/net8.0/Repairing the Clocktower.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/obj/Debug/net8.0/Repairing the Clocktower.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/obj/Debug/net8.0/Repairing the Clocktower.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/obj/Debug/net8.0/Repairing the Clocktower.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/obj/Debug/net8.0/Repairing the Clocktower.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/obj/Debug/net8.0/Repairing the Clocktower.dll
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/obj/Debug/net8.0/refint/Repairing the Clocktower.dll
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/obj/Debug/net8.0/Repairing the Clocktower.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/obj/Debug/net8.0/Repairing the Clocktower.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Repairing the Clocktower/obj/Debug/net8.0/ref/Repairing the Clocktower.dll

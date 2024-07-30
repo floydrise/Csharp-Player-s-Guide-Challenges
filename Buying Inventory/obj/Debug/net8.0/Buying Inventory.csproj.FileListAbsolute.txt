@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/bin/Debug/net8.0/Buying Inventory
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/bin/Debug/net8.0/Buying Inventory.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/bin/Debug/net8.0/Buying Inventory.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/bin/Debug/net8.0/Buying Inventory.dll
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/bin/Debug/net8.0/Buying Inventory.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/obj/Debug/net8.0/Buying Inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/obj/Debug/net8.0/Buying Inventory.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/obj/Debug/net8.0/Buying Inventory.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/obj/Debug/net8.0/Buying Inventory.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/obj/Debug/net8.0/Buying Inventory.dll
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/obj/Debug/net8.0/refint/Buying Inventory.dll
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/obj/Debug/net8.0/Buying Inventory.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/obj/Debug/net8.0/Buying Inventory.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Buying Inventory/obj/Debug/net8.0/ref/Buying Inventory.dll

@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/bin/Debug/net8.0/Watchtower
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/bin/Debug/net8.0/Watchtower.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/bin/Debug/net8.0/Watchtower.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/bin/Debug/net8.0/Watchtower.dll
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/bin/Debug/net8.0/Watchtower.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/obj/Debug/net8.0/Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/obj/Debug/net8.0/Watchtower.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/obj/Debug/net8.0/Watchtower.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/obj/Debug/net8.0/Watchtower.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/obj/Debug/net8.0/Watchtower.dll
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/obj/Debug/net8.0/refint/Watchtower.dll
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/obj/Debug/net8.0/Watchtower.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/obj/Debug/net8.0/Watchtower.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Watchtower/obj/Debug/net8.0/ref/Watchtower.dll

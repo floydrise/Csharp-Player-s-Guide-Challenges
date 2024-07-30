@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/bin/Debug/net8.0/Arrow Factories
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/bin/Debug/net8.0/Arrow Factories.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/bin/Debug/net8.0/Arrow Factories.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/bin/Debug/net8.0/Arrow Factories.dll
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/bin/Debug/net8.0/Arrow Factories.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/obj/Debug/net8.0/Arrow Factories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/obj/Debug/net8.0/Arrow Factories.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/obj/Debug/net8.0/Arrow Factories.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/obj/Debug/net8.0/Arrow Factories.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/obj/Debug/net8.0/Arrow Factories.dll
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/obj/Debug/net8.0/refint/Arrow Factories.dll
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/obj/Debug/net8.0/Arrow Factories.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/obj/Debug/net8.0/Arrow Factories.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Arrow Factories/obj/Debug/net8.0/ref/Arrow Factories.dll

@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/bin/Debug/net8.0/Taking a Number
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/bin/Debug/net8.0/Taking a Number.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/bin/Debug/net8.0/Taking a Number.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/bin/Debug/net8.0/Taking a Number.dll
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/bin/Debug/net8.0/Taking a Number.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/obj/Debug/net8.0/Taking a Number.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/obj/Debug/net8.0/Taking a Number.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/obj/Debug/net8.0/Taking a Number.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/obj/Debug/net8.0/Taking a Number.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/obj/Debug/net8.0/Taking a Number.dll
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/obj/Debug/net8.0/refint/Taking a Number.dll
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/obj/Debug/net8.0/Taking a Number.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/obj/Debug/net8.0/Taking a Number.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Taking a Number/obj/Debug/net8.0/ref/Taking a Number.dll

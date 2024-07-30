@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/bin/Debug/net8.0/Exercices
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/bin/Debug/net8.0/Exercices.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/bin/Debug/net8.0/Exercices.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/bin/Debug/net8.0/Exercices.dll
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/bin/Debug/net8.0/Exercices.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/obj/Debug/net8.0/Exercices.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/obj/Debug/net8.0/Exercices.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/obj/Debug/net8.0/Exercices.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/obj/Debug/net8.0/Exercices.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/obj/Debug/net8.0/Exercices.dll
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/obj/Debug/net8.0/refint/Exercices.dll
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/obj/Debug/net8.0/Exercices.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/obj/Debug/net8.0/Exercices.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Exercices/obj/Debug/net8.0/ref/Exercices.dll

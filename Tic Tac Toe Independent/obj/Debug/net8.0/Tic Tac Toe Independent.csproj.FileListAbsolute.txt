@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/bin/Debug/net8.0/Tic Tac Toe Independent
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/bin/Debug/net8.0/Tic Tac Toe Independent.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/bin/Debug/net8.0/Tic Tac Toe Independent.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/bin/Debug/net8.0/Tic Tac Toe Independent.dll
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/bin/Debug/net8.0/Tic Tac Toe Independent.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/obj/Debug/net8.0/Tic Tac Toe Independent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/obj/Debug/net8.0/Tic Tac Toe Independent.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/obj/Debug/net8.0/Tic Tac Toe Independent.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/obj/Debug/net8.0/Tic Tac Toe Independent.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/obj/Debug/net8.0/Tic Tac Toe Independent.dll
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/obj/Debug/net8.0/refint/Tic Tac Toe Independent.dll
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/obj/Debug/net8.0/Tic Tac Toe Independent.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/obj/Debug/net8.0/Tic Tac Toe Independent.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Tic Tac Toe Independent/obj/Debug/net8.0/ref/Tic Tac Toe Independent.dll

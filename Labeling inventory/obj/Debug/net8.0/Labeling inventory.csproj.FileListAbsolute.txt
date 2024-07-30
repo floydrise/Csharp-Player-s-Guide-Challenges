@@ -1,0 +1,14 @@
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/bin/Debug/net8.0/Labeling inventory
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/bin/Debug/net8.0/Labeling inventory.deps.json
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/bin/Debug/net8.0/Labeling inventory.runtimeconfig.json
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/bin/Debug/net8.0/Labeling inventory.dll
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/bin/Debug/net8.0/Labeling inventory.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/obj/Debug/net8.0/Labeling inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/obj/Debug/net8.0/Labeling inventory.AssemblyInfoInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/obj/Debug/net8.0/Labeling inventory.AssemblyInfo.cs
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/obj/Debug/net8.0/Labeling inventory.csproj.CoreCompileInputs.cache
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/obj/Debug/net8.0/Labeling inventory.dll
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/obj/Debug/net8.0/refint/Labeling inventory.dll
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/obj/Debug/net8.0/Labeling inventory.pdb
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/obj/Debug/net8.0/Labeling inventory.genruntimeconfig.cache
+/Users/apple/Documents/Programming/C# Player's guide/Labeling inventory/obj/Debug/net8.0/ref/Labeling inventory.dll
